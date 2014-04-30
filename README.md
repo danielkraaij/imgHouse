@@ -16,7 +16,9 @@ Some features that i would like to implement in this.
 - Thumbnailing
 - Watermarking
 - plugin system so that you can write you own plugins
-- Build upon Zend Framework (1 or 2, that's still under investigation)
+- Build upon Slim PHP
+- Mobile app to quickly upload new images.
+  - Perhaps with autouploading.
 
 This application will be able to use MySQL/MongoDB/CouchDB/CouchBase
 
